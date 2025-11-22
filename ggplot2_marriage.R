@@ -137,4 +137,5 @@ ggplot(Marriage, aes(x = age)) +
   labs(title = "Participants by age",
        y = "Proportion",
        x = "Age")
+
   
